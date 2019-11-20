@@ -10,7 +10,6 @@
  * is so close to pi's original value
  *
  *Student Name:   Shiyu Wang
- *Student number: 250890597
  *
  **/
 
